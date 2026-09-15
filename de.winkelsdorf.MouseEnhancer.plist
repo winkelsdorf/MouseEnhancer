@@ -9,10 +9,7 @@
 		<string>/usr/local/bin/mouseenhancer</string>
 	</array>
     <key>KeepAlive</key>
-    <dict>
-        <key>Crashed</key>
-        <true/>
-    </dict>
+    <false/>
     <key>RunAtLoad</key>
     <true/>
 	<key>ProcessType</key>
